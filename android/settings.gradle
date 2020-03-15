@@ -1,0 +1,3 @@
+rootProject.name = 'vueapp2'
+
+include ':app'
