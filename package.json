@@ -17,7 +17,7 @@
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
     "react": "16.8.3",
-    "react-native": "0.59.10",
+    "react-native": "0.62.3",
     "vue": "^2.6.11",
     "vue-i18n": "^8.15.5",
     "vue-ls": "^3.2.1",
